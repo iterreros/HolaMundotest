@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FEC</string>
+    <string name="recuperar_contrase_a">Recuperar Contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="Número_Celular">Número Celular</string>
+
+    //no tocar variable de todo
+    <string name="todo">TODO</string>
+   </resources>

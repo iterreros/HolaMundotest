@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FEC</string>
+    <string name="recuperar_contrase_a">Passwort wiederherstellen</string>
+    <string name="iniciar_sesion">Anmeldung</string>
+    <string name="Número_Celular">Handynummer</string>
+
+    //no tocar variable de todo
+    <string name="todo">TODO</string>
+
+</resources>
